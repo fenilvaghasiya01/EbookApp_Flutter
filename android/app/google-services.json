@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064988638240",
+    "firebase_url": "https://flutterebookapp.firebaseio.com",
+    "project_id": "flutterebookapp",
+    "storage_bucket": "flutterebookapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064988638240:android:1e56459846d4c780e2d045",
+        "android_client_info": {
+          "package_name": "com.example.ebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064988638240-sqpa96rnav6qmj0nat9d9diacjm0jq67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ebook_app",
+            "certificate_hash": "70e9b7db9745f84230708898edad896bac344dbc"
+          }
+        },
+        {
+          "client_id": "1064988638240-7e4rn0k135kpr3fng2us4t4kck0nt3cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNlolEII5AE9Rqgto_zhVV3zCHphXIEfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064988638240-7e4rn0k135kpr3fng2us4t4kck0nt3cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
